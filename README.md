@@ -1,7 +1,7 @@
 ### Olá ser pensante, como vai você? Eu me chamo Gabriel 👋
 
-- 🔭 Atualmente trabalho com Flutter como estagiário
-- 🌱 Estudando Nodejs, Typescript e é claro, Flutter ...
+- 🔭 Atualmente trabalho com Vue.js/JS/HTML/CSS/Python como estagiário
+- 🌱 Estudando Nodejs, Typescript e, Flutter ...
 - 📫 Me contate pelo e-mail: gabriel.estudy.reis@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Curioidades? Adoro livros de fantasia e hamburguer artesenanal
