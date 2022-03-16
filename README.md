@@ -1,6 +1,6 @@
 ### Olá ser pensante, como vai você? Eu me chamo Gabriel 👋
 
-- 🔭 Atualmente trabalho com Vue.js/JS/HTML/CSS/Python como estagiário
+- 🔭 Software Engineer
 - 🌱 Estudando HTML/CSS, JS, Vue, Python ...
 - 📫 Me contate pelo e-mail: gabriel.estudy.reis@gmail.com
 - 😄 Pronouns: ele/dele
